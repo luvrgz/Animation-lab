@@ -20,4 +20,4 @@ class AddTrajectory:
         are met or not. This function is optional."""
         return True
 
-FreeCADGui.addCommand("Add trajectory", AddTrajectory())
+FreeCADGui.addCommand("AddTrajectory", AddTrajectory())
